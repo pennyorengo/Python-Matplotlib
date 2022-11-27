@@ -21,5 +21,6 @@ Anila,11,38
 Skye,12,52
 Daniel,11.5,73
 Aisha,14,64
-Bill,6,
-Ted,,
+Bill,6,32
+Ted,10,41
+Mercy,8,35
